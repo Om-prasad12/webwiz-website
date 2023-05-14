@@ -1,0 +1,175 @@
+*{
+    margin:0;
+    padding: 0;
+}
+ 
+
+body{
+    background-image: url("J4o.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pic1{
+    object-fit: cover;
+    height: 400px;
+    width:100%;
+}
+ h1 >a{
+    color:rgb(188, 118, 218);
+    text-decoration: none;
+  }
+   h1 >a:hover{
+    color: rgb(219, 135, 135);
+    text-decoration:underline;
+  }
+h1{
+    font-size: xxx-large;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: relative;
+}
+  .image1{
+    height: 250px;
+    width: 300px;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    margin-left: 60px;
+
+  }
+  .image2{
+    height: 200px;
+    width: 245px;
+    border-bottom-right-radius:50px;
+    border-top-right-radius:50px;
+    margin-right: 60px;
+
+
+  }
+  .image3{
+    height: 200px;
+    width: 300px;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    margin-left: 60px;
+
+  }
+  .image4{
+    height: 200px;
+    width: 235px;
+    border-bottom-right-radius:50px;
+    border-top-right-radius:50px;
+    margin-right: 60px;
+
+  }
+  .section{
+    display: flex;
+    flex-direction:column;
+    position:relative;
+  }
+
+  .part1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+  }
+  .part2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin: 10px;
+  }
+  .part3{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+  }
+  .part4{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin: 10px;
+  }
+  .descp1{
+    background-color: rgb(127, 127, 233);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    margin-right: 10px;
+    font-size:20px;
+  }
+  .descp2{
+    background-color: rgb(80, 171, 237);
+    padding-top: 20px;
+    padding-left:50px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius:50px ;
+    font-size:20px;
+  }
+  .descp3{
+    background-color: rgb(128, 128, 231);
+    padding: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size:20px;
+  }
+  .descp4{
+    background-color: rgb(80, 171, 237);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius:50px ;
+    font-size: 20px;
+  }
+  .descp1:hover{
+    background-color: rgb(143, 224, 224);
+  }
+  .descp2:hover{
+    background-color: rgb(143, 224, 224);
+  }
+  .descp3:hover{
+    background-color: rgb(143, 224, 224);
+  }
+  .descp4:hover{
+    background-color: rgb(143, 224, 224);
+  }
+  h2{
+    color: rgb(79, 19, 144);
+    font-size: x-large;
+  }
+  h2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: aliceblue;
+  }
+  footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  button{
+    padding:20px;
+    font-size: larger;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: rgb(150, 172, 184);
+    color:rgb(32, 36, 56);
+    font-weight: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+  }
+  
+
+ 
+  
+  

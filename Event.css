@@ -1,0 +1,238 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    position: absolute;
+    margin-top: 100px;
+    width: 95%;
+}
+body{
+    padding-left: 0%;
+    padding-right: 5%;
+    margin: 0%;
+    margin-right: 2%;
+    max-width: 100%;
+    overflow-x: hidden
+}
+.heading{
+    font-size: 40px;
+    padding: 5px;
+}
+.heading_1{
+   text-align: center;
+
+}
+.container_1{
+    border: 3px solid #fff;
+    margin-left: 3%;
+    padding: 2%;
+    padding-right: 100%;
+    display: flex;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border: 2px ;
+    border-radius: 25px;
+
+
+}
+
+.image_1 > img{
+    width: 90%;
+    float: left;
+    padding-left: 5%; ;
+    padding-right: 2.5%;
+    margin-right: 2.5%;
+    
+    border: 2px; 
+    flex-grow: 1;
+    
+    
+} 
+.text{
+    font-size:25px;
+}
+.text_1{
+    width: 100% ;
+    float: left;
+    padding-left: 2.5%;
+    margin-left: 2.5%;
+    border: 2px; 
+    color: #fff;
+      
+} 
+.heading_2{
+    text-align: center;
+ }
+ .container_2{
+     border: 3px solid #fff;
+     padding: 2%;
+     
+     display: flex;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+     border: 2px ;
+     border-top-right-radius: 25px;
+     border-bottom-right-radius: 25px;
+ 
+ }
+ 
+ .image_2 > img{
+     width: 90%;
+     float: left;
+     padding-left: 2.5%;
+     margin-left: 2.5%;
+     border: 2px; 
+     flex-grow: 1;
+     
+     
+ } 
+ .text_2{
+     width: 100%;
+     float: left;
+     padding-right: 2.5%;
+     margin-right: 2.5%;
+     border: 2px; 
+     color: #fff;
+     order: -1;
+       
+ }
+ .heading_3{
+    text-align: center;
+ }
+ .container_3{
+     border: 3px solid #fff;
+     margin-left: 3%;
+     padding: 2%;
+     padding-right: 100%;
+     display: flex;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+     border: 2px ;
+     border-radius: 25px;
+ 
+ 
+ }
+ 
+ .image_3 > img{
+     width: 90%;
+     float: left;
+     padding-left: 5%; ;
+     padding-right: 2.5%;
+     margin-right: 2.5%;
+     
+     border: 2px; 
+     flex-grow: 1;
+     
+     
+ } 
+ .text_3{
+     width: 100% ;
+     float: left;
+     padding-left: 2.5%;
+     margin-left: 2.5%;
+     border: 2px; 
+     color: #fff;
+       
+ } 
+ 
+ .heading_4{
+    text-align: center;
+ }
+ .container_4{
+     border: 3px solid #fff;
+     padding: 2%;
+     
+     display: flex;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+     border: 2px ;
+     border-top-right-radius: 25px;
+     border-bottom-right-radius: 25px;
+ 
+ }
+ 
+ .image_4 > img{
+     width: 90%;
+     float: left;
+     padding-left: 2.5%;
+     margin-left: 2.5%;
+     border: 2px; 
+     flex-grow: 1;
+     
+     
+ } 
+ .text_4{
+     width: 100%;
+     float: left;
+     padding-right: 2.5%;
+     margin-right: 2.5%;
+     border: 2px; 
+     color: #fff;
+     order: -1;
+       
+ }
+
+.heading_5{
+    text-align: center;
+ }
+ .container_5{
+     border: 3px solid #fff;
+     margin-left: 3%;
+     padding: 2%;
+     padding-right: 100%;
+     display: flex;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+     border: 2px ;
+     border-radius: 25px;
+ }
+ 
+ .image_5 > img{
+     width: 90%;
+     float: left;
+     padding-left: 5%; ;
+     padding-right: 2.5%;
+     margin-right: 2.5%;
+     border: 2px; 
+     flex-grow: 1;    
+ } 
+ .text_5{
+     width: 100% ;
+     float: left;
+     padding-left: 2.5%;
+     margin-left: 2.5%;
+     border: 2px; 
+     color: #fff;      
+ } 
+ .heading_6{
+    text-align: center;
+ }
+ .container_6{
+     border: 3px solid #fff;
+     padding: 2%;
+     display: flex;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+     border: 2px ;
+     border-top-right-radius: 25px;
+     border-bottom-right-radius: 25px;
+}
+ 
+ .image_6 > img{
+     width: 90%;
+     float: left;
+     padding-left: 2.5%;
+     margin-left: 2.5%;
+     border: 2px; 
+     flex-grow: 1;    
+ } 
+ .text_6{
+     width: 100%;
+     float: left;
+     padding-right: 2.5%;
+     margin-right: 2.5%;
+     border: 2px; 
+     color: #fff;
+     order: -1;      
+ }
